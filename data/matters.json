@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Home Insurance Claim",
+        "description": "",
+        "areas": [
+            "personal"
+        ],
+        "categories": [
+            "liability"
+        ]
+    },
+    {
+        "subject": "Bishopric Meeting",
+        "description": "",
+        "areas": [
+            "church"
+        ],
+        "categories": [
+            "meeting"
+        ]
+    },
+    {
+        "subject": "Ward Council Meeting",
+        "description": "",
+        "areas": [
+            "church"
+        ],
+        "categories": [
+            "meeting"
+        ]
+    }
+]
